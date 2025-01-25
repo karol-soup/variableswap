@@ -1,1 +1,1 @@
-# I intialized two variables, swaped the values of each one then displayed the swapped values
+# In this code I initialized two different variables, swapped the values of each one, and then displayed the swapped values.
